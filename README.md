@@ -8,7 +8,7 @@ Technologist in Systems Analysis and Development. Currently focusing in **backen
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white)](https://www.eobrunodias.com.br) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eobrunodias) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/eobrunodias)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brunodias.contact@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brunodaymes@gmail.com)
 
 
 ### • Currently focusing:
